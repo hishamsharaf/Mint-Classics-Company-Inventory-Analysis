@@ -1,0 +1,280 @@
+country,state,city,productLine,productCode,t_qyt_sold
+USA,NY,NYC,Motorcycles,S10_1678,95
+USA,NY,NYC,Motorcycles,S10_2016,59
+USA,NY,NYC,Motorcycles,S10_4698,92
+USA,NY,NYC,Motorcycles,S12_2823,107
+USA,NY,NYC,Motorcycles,S18_2625,67
+USA,NY,NYC,Motorcycles,S24_1578,75
+USA,NY,NYC,Motorcycles,S24_2000,75
+USA,NY,NYC,Motorcycles,S32_1374,65
+Philippines,NULL,"Makati City",Motorcycles,S18_3782,72
+Philippines,NULL,"Makati City",Motorcycles,S24_2360,77
+Philippines,NULL,"Makati City",Motorcycles,S32_2206,27
+Philippines,NULL,"Makati City",Motorcycles,S32_4485,31
+Philippines,NULL,"Makati City",Motorcycles,S50_4713,34
+Australia,Victoria,Melbourne,Motorcycles,S10_2016,76
+Australia,Victoria,Melbourne,Motorcycles,S10_4698,95
+Australia,Victoria,Melbourne,Motorcycles,S18_2625,74
+Australia,Victoria,Melbourne,Motorcycles,S24_1578,67
+Australia,Victoria,Melbourne,Motorcycles,S24_2000,72
+Australia,Victoria,Melbourne,Motorcycles,S32_1374,43
+France,NULL,Reims,Motorcycles,S10_1678,34
+France,NULL,Reims,Motorcycles,S12_2823,50
+France,NULL,Reims,Motorcycles,S24_2360,32
+France,NULL,Reims,Motorcycles,S32_4485,25
+France,NULL,Reims,Motorcycles,S50_4713,44
+France,NULL,Marseille,Motorcycles,S18_3782,35
+France,NULL,Marseille,Motorcycles,S32_2206,79
+Spain,NULL,Madrid,Motorcycles,S32_1374,23
+France,NULL,Paris,Motorcycles,S10_1678,82
+France,NULL,Paris,Motorcycles,S10_2016,72
+France,NULL,Paris,Motorcycles,S10_4698,31
+France,NULL,Paris,Motorcycles,S12_2823,56
+France,NULL,Paris,Motorcycles,S18_2625,85
+France,NULL,Paris,Motorcycles,S24_1578,60
+France,NULL,Paris,Motorcycles,S24_2000,102
+USA,CA,"San Rafael",Motorcycles,S18_3782,81
+USA,CA,"San Rafael",Motorcycles,S24_2360,64
+USA,CA,"San Rafael",Motorcycles,S32_2206,74
+USA,CA,"San Rafael",Motorcycles,S32_4485,75
+USA,CA,"San Rafael",Motorcycles,S50_4713,66
+USA,CA,Pasadena,Motorcycles,S10_1678,45
+USA,CA,Pasadena,Motorcycles,S10_2016,37
+USA,CA,Pasadena,Motorcycles,S10_4698,33
+USA,CA,Pasadena,Motorcycles,S12_2823,77
+USA,CA,Pasadena,Motorcycles,S18_2625,30
+USA,CA,Pasadena,Motorcycles,S24_1578,43
+USA,CA,Pasadena,Motorcycles,S24_2000,47
+USA,CA,Pasadena,Motorcycles,S24_2360,27
+USA,CA,Pasadena,Motorcycles,S32_1374,33
+USA,CA,Pasadena,Motorcycles,S32_2206,31
+USA,CA,Pasadena,Motorcycles,S32_4485,27
+USA,CA,Pasadena,Motorcycles,S50_4713,38
+USA,CT,Glendale,Motorcycles,S18_3782,47
+Italy,NULL,Milan,Motorcycles,S32_1374,34
+Norway,NULL,Stavern,Motorcycles,S24_2000,22
+USA,CA,"San Francisco",Motorcycles,S10_1678,71
+USA,CA,"San Francisco",Motorcycles,S10_2016,61
+USA,CA,"San Francisco",Motorcycles,S10_4698,71
+USA,CA,"San Francisco",Motorcycles,S12_2823,63
+USA,CA,"San Francisco",Motorcycles,S18_2625,72
+USA,CA,"San Francisco",Motorcycles,S18_3782,21
+USA,CA,"San Francisco",Motorcycles,S24_1578,83
+USA,CA,"San Francisco",Motorcycles,S24_2360,27
+USA,CA,"San Francisco",Motorcycles,S32_2206,35
+USA,CA,"San Francisco",Motorcycles,S32_4485,23
+USA,CA,"San Francisco",Motorcycles,S50_4713,31
+USA,CA,Burlingame,Motorcycles,S10_1678,36
+USA,CA,Burlingame,Motorcycles,S10_2016,27
+USA,CA,Burlingame,Motorcycles,S10_4698,42
+USA,CA,Burlingame,Motorcycles,S18_2625,69
+USA,CA,Burlingame,Motorcycles,S24_1578,100
+USA,CA,Burlingame,Motorcycles,S24_2000,29
+USA,CA,Burlingame,Motorcycles,S32_1374,28
+Australia,NSW,"North Sydney",Motorcycles,S12_2823,35
+Australia,NSW,"North Sydney",Motorcycles,S18_3782,38
+Australia,NSW,"North Sydney",Motorcycles,S24_2360,38
+Australia,NSW,"North Sydney",Motorcycles,S32_2206,26
+Australia,NSW,"North Sydney",Motorcycles,S32_4485,34
+Australia,NSW,"North Sydney",Motorcycles,S50_4713,48
+"New Zealand",NULL,"Auckland  ",Motorcycles,S32_1374,77
+France,NULL,Lille,Motorcycles,S10_1678,29
+France,NULL,Lille,Motorcycles,S10_2016,42
+France,NULL,Lille,Motorcycles,S10_4698,41
+France,NULL,Lille,Motorcycles,S12_2823,83
+France,NULL,Lille,Motorcycles,S18_2625,25
+France,NULL,Lille,Motorcycles,S18_3782,59
+France,NULL,Lille,Motorcycles,S24_1578,48
+France,NULL,Lille,Motorcycles,S24_2000,28
+France,NULL,Lille,Motorcycles,S24_2360,72
+France,NULL,Lille,Motorcycles,S32_2206,77
+France,NULL,Lille,Motorcycles,S32_4485,52
+France,NULL,Lille,Motorcycles,S50_4713,71
+"Norway  ",NULL,Bergen,Motorcycles,S10_1678,48
+"Norway  ",NULL,Bergen,Motorcycles,S10_2016,38
+"Norway  ",NULL,Bergen,Motorcycles,S10_4698,45
+"Norway  ",NULL,Bergen,Motorcycles,S18_2625,32
+"Norway  ",NULL,Bergen,Motorcycles,S24_1578,25
+"Norway  ",NULL,Bergen,Motorcycles,S24_2000,40
+"Norway  ",NULL,Bergen,Motorcycles,S32_1374,44
+Spain,NULL,Madrid,Motorcycles,S24_2360,83
+Spain,NULL,Madrid,Motorcycles,S32_2206,124
+Spain,NULL,Madrid,Motorcycles,S32_4485,82
+Spain,NULL,Madrid,Motorcycles,S50_4713,40
+Germany,NULL,Köln,Motorcycles,S18_3782,85
+"Hong Kong",NULL,"Central Hong Kong",Motorcycles,S32_1374,35
+USA,CA,"San Francisco",Motorcycles,S24_2000,25
+"New Zealand",NULL,Auckland,Motorcycles,S18_3782,30
+"New Zealand",NULL,Auckland,Motorcycles,S24_2360,50
+"New Zealand",NULL,Auckland,Motorcycles,S32_2206,27
+"New Zealand",NULL,Auckland,Motorcycles,S32_4485,31
+"New Zealand",NULL,Auckland,Motorcycles,S50_4713,40
+Japan,Osaka,Kita-ku,Motorcycles,S10_2016,23
+Japan,Osaka,Kita-ku,Motorcycles,S10_4698,34
+Japan,Osaka,Kita-ku,Motorcycles,S18_2625,40
+Japan,Osaka,Kita-ku,Motorcycles,S24_2000,30
+Japan,Osaka,Kita-ku,Motorcycles,S32_1374,46
+France,NULL,Paris,Motorcycles,S18_3782,115
+France,NULL,Paris,Motorcycles,S24_2360,68
+France,NULL,Paris,Motorcycles,S32_2206,77
+France,NULL,Paris,Motorcycles,S32_4485,62
+France,NULL,Paris,Motorcycles,S50_4713,114
+Australia,Victoria,Melbourne,Motorcycles,S10_1678,37
+Canada,BC,Tsawassen,Motorcycles,S32_1374,41
+USA,PA,Philadelphia,Motorcycles,S10_2016,22
+USA,PA,Philadelphia,Motorcycles,S18_2625,23
+USA,PA,Philadelphia,Motorcycles,S24_2000,36
+USA,NY,NYC,Motorcycles,S18_3782,70
+USA,NY,NYC,Motorcycles,S24_2360,57
+USA,NY,NYC,Motorcycles,S32_2206,55
+USA,NY,NYC,Motorcycles,S32_4485,49
+USA,NY,NYC,Motorcycles,S50_4713,65
+USA,CA,"San Jose",Motorcycles,S24_2000,32
+USA,CA,"San Jose",Motorcycles,S32_1374,31
+USA,NJ,Newark,Motorcycles,S10_1678,59
+USA,NJ,Newark,Motorcycles,S10_2016,44
+USA,NJ,Newark,Motorcycles,S10_4698,43
+USA,NJ,Newark,Motorcycles,S12_2823,46
+USA,NJ,Newark,Motorcycles,S18_2625,44
+USA,NJ,Newark,Motorcycles,S24_1578,50
+USA,CT,Bridgewater,Motorcycles,S10_1678,34
+USA,CT,Bridgewater,Motorcycles,S10_2016,40
+USA,CT,Bridgewater,Motorcycles,S10_4698,41
+USA,CT,Bridgewater,Motorcycles,S12_2823,48
+USA,CT,Bridgewater,Motorcycles,S18_2625,34
+USA,CT,Bridgewater,Motorcycles,S24_1578,42
+USA,CT,Bridgewater,Motorcycles,S24_2000,37
+USA,CT,Bridgewater,Motorcycles,S32_1374,31
+USA,MA,Boston,Motorcycles,S18_3782,48
+USA,MA,Boston,Motorcycles,S24_2360,37
+USA,MA,Boston,Motorcycles,S32_2206,20
+USA,MA,Boston,Motorcycles,S32_4485,34
+USA,MA,Boston,Motorcycles,S50_4713,47
+France,NULL,Nantes,Motorcycles,S10_1678,66
+France,NULL,Nantes,Motorcycles,S10_2016,61
+France,NULL,Nantes,Motorcycles,S10_4698,36
+France,NULL,Nantes,Motorcycles,S18_2625,69
+France,NULL,Nantes,Motorcycles,S24_1578,21
+France,NULL,Nantes,Motorcycles,S24_2000,53
+France,NULL,Nantes,Motorcycles,S32_1374,60
+USA,MA,Brickhaven,Motorcycles,S12_2823,43
+USA,MA,Brickhaven,Motorcycles,S18_3782,33
+USA,MA,Brickhaven,Motorcycles,S24_2360,46
+USA,MA,Brickhaven,Motorcycles,S32_2206,27
+USA,MA,Brickhaven,Motorcycles,S32_4485,38
+USA,MA,Brickhaven,Motorcycles,S50_4713,21
+USA,MA,Cambridge,Motorcycles,S10_1678,36
+USA,MA,Cambridge,Motorcycles,S10_2016,47
+USA,MA,Cambridge,Motorcycles,S10_4698,27
+USA,MA,Cambridge,Motorcycles,S12_2823,49
+USA,MA,Cambridge,Motorcycles,S18_2625,20
+USA,MA,Cambridge,Motorcycles,S24_1578,34
+USA,MA,Cambridge,Motorcycles,S24_2000,39
+USA,MA,Cambridge,Motorcycles,S24_2360,38
+USA,MA,Cambridge,Motorcycles,S32_1374,37
+USA,MA,Cambridge,Motorcycles,S32_2206,37
+USA,MA,Cambridge,Motorcycles,S32_4485,26
+USA,MA,Cambridge,Motorcycles,S50_4713,39
+Ireland,NULL,Dublin,Motorcycles,S24_2000,32
+Ireland,NULL,Dublin,Motorcycles,S32_1374,26
+Finland,NULL,Helsinki,Motorcycles,S10_1678,23
+Finland,NULL,Helsinki,Motorcycles,S10_4698,29
+Finland,NULL,Helsinki,Motorcycles,S12_2823,24
+Finland,NULL,Helsinki,Motorcycles,S18_3782,39
+Finland,NULL,Helsinki,Motorcycles,S24_1578,47
+Finland,NULL,Helsinki,Motorcycles,S24_2360,33
+Finland,NULL,Helsinki,Motorcycles,S32_2206,24
+Finland,NULL,Helsinki,Motorcycles,S32_4485,38
+Finland,NULL,Helsinki,Motorcycles,S50_4713,44
+USA,NY,"White Plains",Motorcycles,S10_2016,34
+USA,NY,"White Plains",Motorcycles,S10_4698,20
+USA,NY,"White Plains",Motorcycles,S18_2625,34
+USA,NY,"White Plains",Motorcycles,S24_2000,47
+USA,NY,"White Plains",Motorcycles,S32_1374,24
+Norway,NULL,Stavern,Motorcycles,S10_1678,41
+Norway,NULL,Stavern,Motorcycles,S12_2823,26
+Norway,NULL,Stavern,Motorcycles,S24_1578,21
+Norway,NULL,Stavern,Motorcycles,S24_2360,24
+Norway,NULL,Stavern,Motorcycles,S32_4485,50
+Norway,NULL,Stavern,Motorcycles,S50_4713,28
+Germany,NULL,Köln,Motorcycles,S32_2206,36
+USA,PA,Allentown,Motorcycles,S10_1678,46
+USA,PA,Allentown,Motorcycles,S10_2016,45
+USA,PA,Allentown,Motorcycles,S10_4698,37
+USA,PA,Allentown,Motorcycles,S18_2625,42
+USA,PA,Allentown,Motorcycles,S24_1578,48
+USA,PA,Allentown,Motorcycles,S24_2000,26
+USA,PA,Allentown,Motorcycles,S32_1374,47
+USA,PA,Philadelphia,Motorcycles,S32_2206,28
+USA,PA,Philadelphia,Motorcycles,S32_4485,32
+USA,PA,Philadelphia,Motorcycles,S50_4713,20
+Japan,Tokyo,Minato-ku,Motorcycles,S10_2016,40
+Japan,Tokyo,Minato-ku,Motorcycles,S10_4698,39
+Japan,Tokyo,Minato-ku,Motorcycles,S18_2625,30
+Japan,Tokyo,Minato-ku,Motorcycles,S24_1578,27
+Spain,NULL,Barcelona,Motorcycles,S24_2000,55
+Spain,NULL,Barcelona,Motorcycles,S32_1374,55
+Austria,NULL,Salzburg,Motorcycles,S10_1678,41
+Austria,NULL,Salzburg,Motorcycles,S12_2823,55
+Austria,NULL,Salzburg,Motorcycles,S24_2360,32
+Austria,NULL,Salzburg,Motorcycles,S32_4485,31
+Austria,NULL,Salzburg,Motorcycles,S50_4713,38
+Australia,Victoria,Melbourne,Motorcycles,S18_3782,26
+France,NULL,Reims,Motorcycles,S32_2206,29
+USA,CT,Glendale,Motorcycles,S32_1374,46
+"New Zealand",NULL,"Auckland  ",Motorcycles,S10_1678,82
+"New Zealand",NULL,"Auckland  ",Motorcycles,S10_2016,71
+"New Zealand",NULL,"Auckland  ",Motorcycles,S10_4698,64
+"New Zealand",NULL,"Auckland  ",Motorcycles,S12_2823,64
+"New Zealand",NULL,"Auckland  ",Motorcycles,S18_2625,58
+"New Zealand",NULL,"Auckland  ",Motorcycles,S24_1578,78
+"New Zealand",NULL,"Auckland  ",Motorcycles,S24_2000,86
+Spain,NULL,Madrid,Motorcycles,S18_3782,59
+Australia,NSW,Chatswood,Motorcycles,S10_1678,20
+Australia,NSW,Chatswood,Motorcycles,S10_2016,26
+USA,CA,Burlingame,Motorcycles,S12_2823,22
+Finland,NULL,Espoo,Motorcycles,S18_3782,32
+Finland,NULL,Espoo,Motorcycles,S24_2000,21
+Finland,NULL,Espoo,Motorcycles,S24_2360,43
+Finland,NULL,Espoo,Motorcycles,S32_1374,50
+USA,MA,"New Bedford",Motorcycles,S32_4485,22
+USA,MA,"New Bedford",Motorcycles,S50_4713,44
+Australia,Queensland,"South Brisbane",Motorcycles,S10_2016,39
+Australia,Queensland,"South Brisbane",Motorcycles,S10_4698,22
+Australia,Queensland,"South Brisbane",Motorcycles,S18_2625,22
+Australia,Queensland,"South Brisbane",Motorcycles,S24_1578,38
+France,NULL,Nantes,Motorcycles,S12_2823,49
+France,NULL,Nantes,Motorcycles,S24_2360,20
+France,NULL,Nantes,Motorcycles,S32_4485,41
+France,NULL,Nantes,Motorcycles,S50_4713,49
+Singapore,NULL,Singapore,Motorcycles,S32_1374,44
+USA,MA,"New Bedford",Motorcycles,S10_1678,42
+USA,MA,"New Bedford",Motorcycles,S10_2016,50
+USA,MA,"New Bedford",Motorcycles,S10_4698,21
+USA,MA,"New Bedford",Motorcycles,S12_2823,44
+Sweden,NULL,Bräcke,Motorcycles,S18_2625,39
+Sweden,NULL,Bräcke,Motorcycles,S24_1578,45
+Sweden,NULL,Bräcke,Motorcycles,S24_2000,49
+USA,NJ,Newark,Motorcycles,S32_1374,49
+UK,NULL,Liverpool,Motorcycles,S10_1678,24
+UK,NULL,Liverpool,Motorcycles,S10_4698,66
+UK,NULL,Liverpool,Motorcycles,S12_2823,66
+UK,NULL,Liverpool,Motorcycles,S18_3782,36
+UK,NULL,Liverpool,Motorcycles,S24_1578,46
+UK,NULL,Liverpool,Motorcycles,S24_2360,27
+UK,NULL,Liverpool,Motorcycles,S32_2206,30
+UK,NULL,Liverpool,Motorcycles,S32_4485,45
+UK,NULL,Liverpool,Motorcycles,S50_4713,31
+Italy,NULL,"Reggio Emilia",Motorcycles,S24_2000,32
+Italy,NULL,"Reggio Emilia",Motorcycles,S32_1374,45
+Spain,NULL,Madrid,Motorcycles,S10_1678,66
+Spain,NULL,Madrid,Motorcycles,S10_2016,45
+Spain,NULL,Madrid,Motorcycles,S10_4698,56
+Spain,NULL,Madrid,Motorcycles,S12_2823,21
+Spain,NULL,Madrid,Motorcycles,S18_2625,36
+Spain,NULL,Madrid,Motorcycles,S24_1578,35
+"New Zealand",NULL,Wellington,Motorcycles,S18_3782,33
+"New Zealand",NULL,Wellington,Motorcycles,S24_2360,52
+"New Zealand",NULL,Wellington,Motorcycles,S32_2206,43
+"New Zealand",NULL,Wellington,Motorcycles,S32_4485,50
+"New Zealand",NULL,Wellington,Motorcycles,S50_4713,40
