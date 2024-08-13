@@ -18,7 +18,7 @@ To can dive into the company data and analyze it, I used:
 3. Tableau: For Data Visualization.
 
 # The Analysis
-Total quantity in stock for each storage facilities.
+1.Total quantity in stock for each storage facilities.
 ```sql
 select
 	wh.warehouseName,
@@ -32,7 +32,7 @@ GROUP BY
 ORDER BY
     t_in_stock DESC;
 ```
-![Total quantity]()
+![Total quantity](Capture111.PNG)
 
-
+2.
 
