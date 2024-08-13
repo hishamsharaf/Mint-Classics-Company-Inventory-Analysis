@@ -125,9 +125,9 @@ left join
 
 # Conclusions and Recommendation
 1. There are big differnce between the number of orders and the quantities of items in each warehouse, we recommend to reduce the inventory for most of the items.
-2. As for the items that sales are more than the quantities in the warehouses, it needs to increase the inventory of thease items for more sales.
+2. As for the items that sales are more than the quantities in the warehouses we recommend to increase the inventory of thease items for more sales.
 3. Most of the orders are from West and East states in the USA, Western Eourpe Contries such as: UK, Spain and Italy
-4. AS shown in the analysis above we recommend to reduce the inventory for East and West warehouses for most of productline items and provide space for items in the North warehouse tp rearrange.
+4. AS shown in the analysis above we recommend to reduce the inventory for East and West warehouses for most of productline items and provide space for items in the North warehouse to rearrange.
 5. We recommend to relocate the Motercycles productline after reducing the inventory to West and East Warehouse, while increasing the inventory for the East warehouse to be more than the West one as the orders are more in the East warehouse to cover east states and Western Europe Countries.
 6. The company can close the North the storge spaces for the Motorcycles productline and provide small space for North orders like the ones coming from Canada as it can be 50 items and to determine which type of motorcycles to relocate based on orders distination check the table link:
 [motercycles sales with product code](motorcycle_sales_with_productcode.csv) to determine the product code for each item.
