@@ -18,7 +18,7 @@ To can dive into the company data and analyze it, I used:
 3. Tableau: For Data Visualization.
 
 # The Analysis
-1.Total quantity in stock for each storage facilities.
+1.Total quantity in stock for each storage facility.
 ```sql
 select
 	wh.warehouseName,
@@ -34,5 +34,7 @@ ORDER BY
 ```
 ![Total quantity](Capture111.PNG)
 
-2.
+2. Total quantity in each storage facility or warehouse with the product line and the total sales related to each warehouse. With this analysis we can find the number of sales accourding to the inventory to have an over view and if we can apply inventory reduction or rearrange items.
+
+![Total quantity](Capture111.PNG)
 
