@@ -1,5 +1,5 @@
 # Introduction
-Dive intp Mint Classic (a retailer of classic model cars and other vehicles) sales data, to provide suggestions and recommendations for reorganizing or reducing inventory. Also, they need to close one of thier storage facilities if possible to reduce expences.
+Dive into Mint Classic (a retailer of classic model cars and other vehicles) sales data, to provide suggestions and recommendations for reorganizing or reducing inventory. Also, they need to close one of thier storage facilities if possible to reduce expences.
 
 # Background
 To support a data-based business decision, the company wants to have insights about thier inventory and if they need inventory reducing. They want to have answers to the questions like:
